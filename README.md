@@ -1,25 +1,5 @@
 # DocSpot-Seamless-Appointment-Booking-for-Health
 
-A simple and efficient doctor appointment booking system that allows users to book, manage, and track doctor visits easily. This app aims to streamline the process for both patients and healthcare providers.
-
-
-🚀 Features
-
-
-👨‍⚕️ Doctor & Patient Login
-
-📅 Book, Reschedule, and Cancel Appointments
-
-🔍 Search Doctors by Specialization & Location
-
-🕒 Real-Time Slot Availability
-
-📬 Email Notifications for Booking Confirmation
-
-📜 Medical History Record Tracking
-
-📱 Responsive UI (Mobile + Web Friendly)
-
 
 **📄 License**
 
